@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React from 'react'
 import GetData from './components/getData'
 import './App.css'
 
